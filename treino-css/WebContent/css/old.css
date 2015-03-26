@@ -1,0 +1,157 @@
+
+.footer {
+	border: 1px solid #006699;
+	background-color: #339966;
+}
+.fundo_lateral {
+	background-image: url(../images/fundolateralverde.gif);
+	background-repeat: repeat;
+}
+.fundo_menu {
+	background-color: #f7f1db;
+	border-top: 0px solid #006699;
+	border-right: 1px solid #006699;
+	border-bottom: 1px solid #006699;
+	border-left: 1px solid #006699;
+}
+.Tbl_login {
+	border: 1px solid #006699;
+	padding: 5px;
+}
+.asterisco {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: red;
+}
+.Txt_Preto {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+}
+.Txt_PretoN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Txt_AzulN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #006699;
+	font-weight: bold;
+}
+.Txt_BrancoN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.Txt_Login {
+	font-family: Tahoma;
+	font-size: 13px;
+	color: #006699;
+	font-weight: bold;
+}
+.Txt_Azul {
+
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #006699;
+	font-weight: normal;
+}
+.Input {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+}
+.Botao {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #000000;
+	border: 1px solid #006699;
+	background-color: #D3D3D3;
+	text-transform: uppercase;
+	text-align: center;
+	border-style:outset; margin:1px;
+}
+.Conteudo {
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #006699;
+	padding: 3px;
+}
+.scroll {
+	SCROLLBAR-FACE-COLOR: #f4e1c6;
+	FONT-SIZE: 7pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: #006699;
+	SCROLLBAR-SHADOW-COLOR: #006699;
+	COLOR: Black;
+	SCROLLBAR-3DLIGHT-COLOR: #f4f4f4;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #f4f4f4;
+	SCROLLBAR-DARKSHADOW-COLOR: #f4f4f4;
+}
+.TDN {
+	background-color: #fcedb2;
+	font-family: Verdana;
+	font-size: 11px;
+	text-align: right;
+	margin-right: 2px
+}
+.TD {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	font-weight: normal;
+	background-color: #9FBEFF;
+	padding: 1px;
+}
+.TD1 {
+	background-color: #fff6d9;
+	font-family: Verdana;
+	font-size: 11px;
+	margin-right: 2px
+}
+.TD2 {
+	background-color: #fcedb2;
+	font-family: Verdana;
+	font-size: 11px;
+	margin-right: 2px;
+}
+.Destaque {
+	border: 1px solid #006699;
+	padding: 1px;
+	background-color: #339966;
+}
+.clsCelClaraTxtNeg {
+	background-color: #fff6d9;
+	font-family: Verdana;
+	font-size: 11px;
+	margin-right: 2px ;
+	font-weight: bold;
+	color: #000000
+}
+
+.clsCelEscuraTxtNeg {
+	background-color: #fcedb2;
+	font-family: Verdana;
+	font-size: 11px;
+	margin-right: 2px ;
+	font-weight: bold;
+	color: #000000;
+	text-align: left
+}
+.Input1 {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+	background-color: #efefef;
+}

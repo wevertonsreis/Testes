@@ -1,0 +1,177 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color: #6F8420;
+}
+
+.Conteudo {
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	padding: 3px;
+}
+
+.impar {
+	background-color:#DDD;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+	
+.par {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color:#FFF;
+	background-color:#2f710d;
+	padding:5px;
+}
+
+.clsCelEscuraTxtNeg {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color:#FFF;
+	background-color:#2f710d;
+	padding:5px;
+}
+
+.Txt_Azul {
+
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #6F8420;
+	font-weight: normal;
+}
+
+.Txt_AzulN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #6F8420;
+	font-weight: bold;
+}
+
+.Txt_VermelhoN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.Txt_VerdeN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #2f710d;
+	font-weight: bold;
+}
+
+.Destaque {
+	border: 1px solid #2f710d;
+	padding: 1px;
+	background-color: #DDD;
+}
+
+.Mensagem {
+	border: 1px solid #2f710d;
+	padding: 1px;
+	background-color: #C0C0C0;
+	font-size: 11px;
+	color: #DDD;
+}
+
+.MensagemSucesso {
+	border: 1px solid #2f710d;
+	padding: 1px;
+	background-color: #C0C0C0;
+	font-size: 11px;
+	color: #DDD;
+}
+
+.MensagemErro {
+	border: 1px solid #2f710d;
+	padding: 1px;
+	background-color: #C0C0C0;
+	font-size: 11px;
+	color: #FF0000;
+}
+
+.Txt_Preto {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #FFF;
+}
+.Txt_PretoN {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #DDD;
+	font-weight: bold;
+}
+
+.Txt_Preto_Negrito {
+	font-family: Tahoma;
+	color: #000000;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.Txt_PretoV {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #DDD;
+	font-weight: bold;
+}
+
+.Input {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+}
+
+.Input1 {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	border: 1px solid #000000;
+	background-color: #efefef;
+}
+
+.Input2 {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: #000000;
+	background-color: #efefef;
+}
+
+
+.scroll {
+	SCROLLBAR-FACE-COLOR: #2f710d;
+	FONT-SIZE: 7pt;
+	SCROLLBAR-HIGHLIGHT-COLOR: #006699;
+	SCROLLBAR-SHADOW-COLOR: #006699;
+	COLOR: Black;
+	SCROLLBAR-3DLIGHT-COLOR: #f4f4f4;
+	SCROLLBAR-ARROW-COLOR: #000000;
+	SCROLLBAR-TRACK-COLOR: #f4f4f4;
+	SCROLLBAR-DARKSHADOW-COLOR: #f4f4f4;
+}
+
+.asterisco {
+	font-family: Tahoma;
+	font-size: 11px;
+	color: red;
+}
+
