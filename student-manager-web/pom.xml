@@ -39,11 +39,21 @@
 		<artifactId>primefaces</artifactId>
 		<version>5.0</version>
 	</dependency>
+
+<!--
  	<dependency>
 		<groupId>org.primefaces.extensions</groupId>
 		<artifactId>all-themes</artifactId>
 		<version>1.0.8</version>
 	</dependency>
+-->
+	<dependency>
+            <groupId>org.primefaces.themes</groupId>
+            <artifactId>afterdark</artifactId>
+            <version>1.0.8</version>
+            <scope>compile</scope>
+	</dependency>
+	
 	<!-- JSF 2 -->
   	<dependency>
 		<groupId>com.sun.faces</groupId>
@@ -82,5 +92,6 @@
   		<version>1.0.0</version>
   		<scope>provided</scope>
 	</dependency>
+
   </dependencies>
 </project>
