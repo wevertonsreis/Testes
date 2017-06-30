@@ -1,3 +1,0 @@
-INDEX VERSION 1.3+/Users/wevertonreis/Documents/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3351729827.index
-104985062.index
